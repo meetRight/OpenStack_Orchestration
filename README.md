@@ -2,7 +2,10 @@
 
 Ansible role to install and configure a Prometheus exporter for OpenStack.
 
-pip install openstacksdk in the python environment
+install openstacksdk in the python environment
+```python
+pip install openstacksdk
+```
 
 ## Sponsor
 
